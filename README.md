@@ -19,4 +19,7 @@ This is a simple web project, deployement can be on any web server or even local
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
+### Cpyright
 2014 Cpoyright Git.Training
