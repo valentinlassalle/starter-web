@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Valentin Lassalle valentin.lassallle-cic@ibm.com
 
 # THANKS
 
